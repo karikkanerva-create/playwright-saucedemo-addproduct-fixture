@@ -96,3 +96,11 @@ After running the tests, open the generated HTML report:
 ```bash
 npx playwright show-report
 ```
+
+## Author
+
+Kari Kanerva<br>
+Bachelor of Computer Science<br>
+ISTQB Foundation Level Tester CTFL 4.0<br>
+ISTQB Foundation Agile Tester<br>
+email: kari.k.kanerva@gmail.com
